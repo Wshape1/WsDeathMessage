@@ -1,5 +1,5 @@
-# WsKilledSay 
-------  
+# WsKilledSay #####自定义玩家死亡提示
+------  
 [下载Phar](http://pan.baidu.com/s/1eSh2JJW) 
 ```
 You can change the player's death information in the config.  
