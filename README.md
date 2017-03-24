@@ -1,4 +1,4 @@
-# WsKilledSay 
+# WsDeathMessage  
 ------  
 [下载Phar](http://pan.baidu.com/s/1eSh2JJW) 
 ```   
